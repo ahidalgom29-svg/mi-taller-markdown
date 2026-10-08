@@ -46,3 +46,5 @@ mensaje_servidor()
 ## Imagenes y enlaces
 
 [![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)](https://github.com)
+
+![Mi imagen del repositorio](images/imagen.png)
