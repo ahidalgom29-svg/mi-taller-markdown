@@ -30,6 +30,7 @@ def mensaje_servidor():
 	print("!Servidor configurado con exito!")
 
 mensaje_servidor()
+```
 
 ## Citar
 
